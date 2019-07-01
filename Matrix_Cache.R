@@ -42,3 +42,5 @@ cacheSolve <- function(x, ...) {
         x$setInverse(inv)
         inv
 }
+
+##This is how both function works.
